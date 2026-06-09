@@ -1,4 +1,4 @@
-
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -16,7 +16,6 @@
           </div>
           <button id="themeToggle" class="icon-button" type="button" aria-label="Toggle theme">Dark</button>
         </header>
-
         <form id="addContactForm" class="add-contact">
           <div class="contact-fields">
             <label>
